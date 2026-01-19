@@ -1,26 +1,21 @@
-# License & Attribution Notice
+# License
 
-This project is a bundled Minecraft client / mod collection.
+This repository does not contain source code.
 
-It includes numerous third-party mods, each distributed under its own original license.
-Due to the large number of included mods, individual licenses are not duplicated here.
+It contains data files such as JSON metadata, update information,
+release channels, announcements, and related resources used by
+the Nix Launcher and client.
 
-## License Handling
+This repository is NOT covered by the GNU General Public License (GPL),
+even though the launcher and client source code are licensed under GPL
+in their respective repositories.
 
-- Each included mod remains the intellectual property of its original author.
-- No third-party code is relicensed by this project.
-- License files included inside each mod JAR remain intact.
-- Attribution is preserved through original mod metadata and embedded LICENSE files.
+You may view the contents of this repository for transparency and
+operational purposes.
 
-## Source & Credits
+You may NOT:
+- Reuse this data in other projects
+- Mirror or redistribute it
+- Modify and publish it elsewhere
 
-A complete and up-to-date list of included mods and their licenses
-can be found in the following locations:
-
-- Inside the `mods/` directory of the distributed client
-- In each mod’s `fabric.mod.json` / `mods.toml`
-- On the original mod pages on Modrinth / 
-
-## Disclaimer
-
-This software is provided "as is", without warranty of any kind.
+© 2026 Outsider.NOC . All rights reserved.
